@@ -1,2 +1,2 @@
 # hcde-410-final
-Look in A4.pytp for full report.
+Look in A4.ipynb for full report.
